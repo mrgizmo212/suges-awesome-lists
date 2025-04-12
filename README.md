@@ -1,4 +1,4 @@
-# SUGE'S SUPER DOPE & AWESOME LIST OF REPOS
+# SUGE'S SUPER DOPE & AWESOME LIST OF COOL STUFF
 _A curated and ever-growing collection of the best AI-powered and AI-assisted tools for developers, designers, marketers, data scientists, content creators, and tech builders. This list includes open source repos, freemium platforms, free trials, and fully free tools across categories like machine learning, automation, finance, frontend dev, and generative media._
 
 ---
