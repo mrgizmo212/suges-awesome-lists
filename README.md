@@ -2,4 +2,5 @@
 A super dope & awesome list of repos... this is all
 
 ## NO CODE EDITORS:
-- https://v0.dev/
+- <a href="https://v0.dev/" target="_blank">v0.dev</a>
+- <a href="https://" target="_blank">[Link Placeholder]</a>
