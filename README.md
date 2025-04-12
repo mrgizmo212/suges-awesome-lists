@@ -3,19 +3,6 @@ _A super dope & awesome curated list of AI-powered development tools and project
 
 ---
 
-## LEGEND / ICON KEY
-
-- ✨ – AI-Powered  
-- 🆓 – Free  
-- ⭐ – Freemium (Free with Paid Upgrades)  
-- 🧪 – Free Trial  
-- 📦 – Full Stack  
-- ⚙️ – Developer Tool  
-- 🖌️ – UI/Design  
-- 🔧 – Coming Soon / Placeholder  
-
----
-
 ## UI & Frontend Builders
 - <a href="https://v0.dev/" target="_blank">v0.dev</a> ✨🆓🖌️ – Generate React components and full UIs from natural language prompts.
 - <a href="https://uizard.io/" target="_blank">Uizard</a> ✨⭐🖌️ – Turn wireframes or hand-drawn sketches into interactive mockups using AI.
